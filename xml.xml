@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+ <clients>
+   <client id = "1">
+      <nomclient> Dupont </nomclient>
+      <prenomclient>Pierre</prenomclient>
+      <ageclient> 42 ans </ageclient>
+      <metierclient>Develeppeur Web </metierclient>
+      <mailclient>p.dupont@gmail.com</mailclient>
+      <telclient>06 66 66 66 66 </telclient>
+      <br> <br>
+   </client>
+   <client id = "2">
+      <nomclient> Dulac </nomclient>
+      <prenomclient>Paul</prenomclient>
+      <ageclient> 66 ans </ageclient>
+      <metierclient>Web Designer </metierclient>
+      <mailclient>p.dulac@gmail.com</mailclient>
+      <telclient>06 42 42 42 42 </telclient>
+      <br> <br>
+   </client>
+   <client id = "3">
+      <nomclient> Ajax </nomclient>
+      <prenomclient>Jacques</prenomclient>
+      <ageclient> 73 ans </ageclient>
+      <metierclient>Programmeur à la retraite</metierclient>
+      <mailclient>j.ajax@gmail.com</mailclient>
+      <telclient>06 12 43 56 59 </telclient>
+   </client>
+ </clients>
+</xml>
