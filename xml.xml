@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
  <clients>
    <client id = "1">
-      <nomclient> Dupont </nomclient>
-      <prenomclient>Pierre</prenomclient>
-      <ageclient> 42 ans </ageclient>
-      <metierclient>Develeppeur Web </metierclient>
-      <mailclient>p.dupont@gmail.com</mailclient>
-      <telclient>06 66 66 66 66 </telclient>
+      <nom> Dupont </nom>
+      <prenom>Pierre</prenom>
+      <age> 42 ans </age>
+      <metier>Develeppeur Web </metier>
+      <mail>p.dupont@gmail.com</mail>
+      <tel>06 66 66 66 66 </tel>
       <br> <br>
    </client>
+
    <client id = "2">
-      <nomclient> Dulac </nomclient>
-      <prenomclient>Paul</prenomclient>
-      <ageclient> 66 ans </ageclient>
-      <metierclient>Web Designer </metierclient>
-      <mailclient>p.dulac@gmail.com</mailclient>
-      <telclient>06 42 42 42 42 </telclient>
+      <nom> Dulac </nom>
+      <prenom>Paul</prenom>
+      <age> 66 ans </age>
+      <metier>Web Designer </metier>
+      <mail>p.dulac@gmail.com</mail>
+      <tel>06 42 42 42 42 </tel>
       <br> <br>
    </client>
+
    <client id = "3">
-      <nomclient> Ajax </nomclient>
-      <prenomclient>Jacques</prenomclient>
-      <ageclient> 73 ans </ageclient>
-      <metierclient>Programmeur à la retraite</metierclient>
-      <mailclient>j.ajax@gmail.com</mailclient>
-      <telclient>06 12 43 56 59 </telclient>
+      <nom> Ajax </nom>
+      <prenom>Jacques</prenom>
+      <age> 73 ans </age>
+      <metier>Programmeur à la retraite</metier>
+      <mail>j.ajax@gmail.com</mail>
+      <tel>06 12 43 56 59 </tel>
    </client>
  </clients>
-</xml>
