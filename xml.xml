@@ -7,7 +7,6 @@
       <metier>Develeppeur Web </metier>
       <mail>p.dupont@gmail.com</mail>
       <tel>06 66 66 66 66 </tel>
-      <br> <br>
    </client>
 
    <client id = "2">
@@ -17,7 +16,6 @@
       <metier>Web Designer </metier>
       <mail>p.dulac@gmail.com</mail>
       <tel>06 42 42 42 42 </tel>
-      <br> <br>
    </client>
 
    <client id = "3">
