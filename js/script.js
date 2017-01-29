@@ -32,7 +32,7 @@ function xmlFunction(xml) {
 }
 
 //
-// getelementbytagname
+// getElementByTagName
 //
 // firstchild.nodevalue
 //
